@@ -20,3 +20,6 @@ GOOGLE
 
 # Recursos
 Monitoramento do solo, menos percas, reutilização da água, biotecnologia.
+
+# Licença 
+Este projeto está licenciado sob a MIT Licene, permitino o uso, modificação e distribuição livre, com os devidos créditos.
